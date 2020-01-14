@@ -1,0 +1,98 @@
+Resistance to Plasmodium vivax
+Type 2 diabetes
+Metabolite levels HVA
+Diisocyanate-induced asthma
+Skin sensitivity to sun
+Breast cancer
+Type 2 diabetes
+Red blood cell traits
+Economic and political preferences
+Multiple myeloma IgH translocation
+Longevity 90 years and older
+Blood metabolite ratios
+Type 2 diabetes nephropathy
+Trans fatty acid levels
+Resting heart rate
+Schizophrenia
+Skin pigmentation
+Tourette's syndrome or obsessive-compulsive disorder
+Optic cup area
+Prostate cancer
+Diisocyanate-induced asthma
+Nicotine use
+Serum vitamin D-binding protein levels
+Glaucoma primary angle closure
+Black vs. blond hair color
+Immune reponse to smallpox secreted IFN-alpha
+Obesity-related traits
+Vertical cup-disc ratio
+Amyotrophic lateral sclerosis
+Airway responsiveness in chronic obstructive pulmonary disease
+Classic bladder exstrophy
+Schizophrenia
+Metabolite levels HVA_MHPG ratio
+Obesity-related traits
+MGMT methylation in smokers
+Crohn's disease
+Schizophrenia
+Schizophrenia
+Primary biliary cirrhosis
+Height
+Optic cup area
+Colorectal cancer
+Multiple sclerosis
+IgG glycosylation
+Obesity-related traits
+Coronary artery disease
+Schizophrenia
+Verbal declarative memory
+IgG glycosylation
+Schizophrenia
+Metabolite levels
+Renal function-related traits BUN
+Response to statin therapy
+Bone properties heel
+Height
+Height
+Skin colour saturation
+Homocysteine levels
+Diabetic kidney disease
+Visceral adipose tissue adjusted for BMI
+Obesity-related traits
+Bulimia nervosa
+Schizophrenia
+Disc degeneration lumbar
+Schizophrenia
+Cholesterol, total
+Metabolite levels Dihydroxy docosatrienoic acid
+Cognitive function
+Obesity-related traits
+Amyotrophic lateral sclerosis
+Primary biliary cirrhosis
+C-reactive protein and white blood cell count
+Immunoglobulin A
+Pubertal anthropometrics
+Obesity-related traits
+Obesity-related traits
+Pulmonary function in asthmatics
+Body mass index
+Waist-to-hip ratio adjusted for body mass index
+Immune reponse to smallpox secreted IFN-alpha
+Metabolite levels MHPG
+Schizophrenia
+Obesity-related traits
+Atopic dermatitis
+Body mass index
+Height
+Waist Circumference - Triglycerides WC-TG
+Parkinson's disease age of onset
+Body mass index
+AIDS
+Ossification of the posterior longitudinal ligament of the spine
+Lymphoma
+Airflow obstruction
+Blood and toenail selenium levels
+Obesity-related traits
+Obesity early onset extreme
+Waist-hip ratio
+Self-reported allergy

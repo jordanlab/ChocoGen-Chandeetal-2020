@@ -1,0 +1,21 @@
+SNP	REF	ALT	Ref Freq CLM	Ref Freq CHO	Alt Freq CLM	Alt Freq CHO	EffectAlleleCLM	EffectAlleleCHO	Effect Allele	Risk Complement	Effect Pop	OR	Polarized Fst	Fst	Trait	HigherLevel	Gene	Annotation	Comments	PMID	P-value
+rs2814778	T	C	0.93	0.19	0.07	0.81	0.07	0.81	C	G	CHO	1.35	-0.554	0.553562731	White blood cell count	Immune diseases and disorders	DARC (aka ACKR1)	Duffy blood group	resistance to Plasmodium vivax	22037903	7 x10e-55
+rs12074934	T	G	0.94	0.36	0.06	0.64	0.06	0.64	C	G	CHO	15.23	-0.376	Diisocyanate-induced asthma	Pulmonology	OR10J3	Lung receptor	.	.	.	.
+rs11814448	A	C	0.90	0.35	0.10	0.65	0.10	0.65	C	G	CHO	1.26	-0.333	0.332729742	Breast cancer	Cancer	DNAJC1	Heast shock prot, DNA damage repair		.	.
+rs802571	A	G	0.89	0.34	0.11	0.66	0.11	0.66	T	A	CLM	1.92	-0.322	0.32208405	Alzheimer's disease late onset	Brain health and disorders	CNTNAP2	Increased late onset AH rate		.	.
+rs10007810	G	A	0.77	0.20	0.23	0.80	0.23	0.80	A	T	CHO	1.20	-0.318	0.318228164	Longevity 90 years and older	Aging	LIMCH1	Small increase in longevity		.	.
+rs509360	A	G	0.24	0.80	0.76	0.20	0.24	0.80	A	T	CHO	0.00	-0.312	0.312367191	Trans fatty acid levels	General health	FEN1	Increased ALA and LA levels from PUFA pathway		.	.
+rs1834640	A	G	0.78	0.24	0.22	0.76	0.22	0.76	G	C	CHO	12.50	-0.294	0.294497283	Skin pigmentation	Appearance	SLC24A5	Darker pigmentation	Expectation	17999355	 1 x10e-50
+rs9623117	T	C	0.85	0.32	0.15	0.68	0.15	0.68	C	G	CHO	1.18	-0.286	0.286118815	Prostate cancer	Cancer	TNRC6B	Increased prostate cancer risk in AfAm	Expectation	19117981	 5 x10e-7
+rs1298637	C	T	0.72	0.19	0.28	0.81	0.28	0.81	A	T	CHO	5.97	-0.280	0.279589217	Nicotine use	General health	GLIS1	Increased nicitone use		.	.
+rs28777	C	A	0.35	0.86	0.65	0.14	0.35	0.86	C	G	CHO	0.46	-0.272	0.271858407	Black vs. blond hair color	Appearance	SLC24A5	Darker hair for each C allele	Expectation	18483556	1 x10e-17
+rs224333	G	A	0.68	0.21	0.32	0.79	0.68	0.21	G	C	CLM	0.04	0.222	0.221611722	Waist-to-hip ratio adjusted for body mass index	Obesity	GDF5	0.04 unit increase		25673412	9 x 10e-12
+rs1667394	C	T	0.43	0.88	0.57	0.12	0.57	0.12	A	T	CLM	4.94	0.231	0.231269543	Blond vs. brown hair color	Appearance	HERC2	Blue eyes	Expectation	17952075	1 x10e-241
+rs12940030	T	C	0.68	0.18	0.32	0.82	0.68	0.18	T	A	CLM	0.08	0.261	0.260725119	Corneal structure	General health	HS3ST3B1-PMP22	Increases corneal thickness	positive trait	23291589	7 x10e-10
+rs1426654	A	G	0.72	0.21	0.28	0.79	0.72	0.21	A	T	CLM	0.48	0.262	0.262205531	Body mass index	Skin Color	SLC24A5	Lighter skin per A allele	Expectation	26926045	 1 x10e-18
+rs995030	A	G	0.16	0.67	0.84	0.33	0.84	0.33	G	C	CLM	2.69	0.269	0.268531469	Testicular germ cell tumor	Cancer	KITLG	2.5x increase per G		23666240	2 x10e-50
+rs2472649	A	G	0.24	0.77	0.76	0.23	0.76	0.23	G	C	CLM	1.10	0.272	0.271760045	Inflammatory bowel disease	Immune diseases and disorders	Intronic	Associated with IBD		.	.
+rs4474514	G	A	0.16	0.69	0.84	0.31	0.84	0.31	A	T	CLM	3.07	0.283	0.283143146	Testicular cancer	Cancer	KITLG	3x increase rate per A		19483682	6 x10e-15
+rs1137	T	C	0.26	0.79	0.74	0.21	0.74	0.21	C	G	CLM	0.12	0.284	0.283728086	Myopia pathological	General health	SEMA4F 	Axon growht, e.g. optic nerve infiltration		.	.
+rs11894081	G	T	0.20	0.80	0.80	0.20	0.80	0.20	T	A	CLM	1.22	0.355	0.354911725	Crohn's disease	Digestive system and its disorders		Unspecified rate increase		.	.
+rs16891982	C	G	0.36	0.94	0.64	0.06	0.64	0.06	G	C	CLM	0.31	0.362	0.362146051	Skin sensitivity to sun	Appearance	SLC24A5	G is protection from malignant melanoma	CLM has protective allele, CHO doesn't	.	.
